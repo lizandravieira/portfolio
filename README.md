@@ -8,6 +8,8 @@ Abra `index.html` no navegador. O site usa HTML, CSS e JavaScript e dispensa ins
 
 ## Estrutura do projeto
 
-- `index.html` reúne o conteúdo, os estilos e as interações do site.
-- `assets/` contém a foto de apresentação.
-- As imagens da galeria e o vídeo ficam na raiz, ao lado de `index.html`.
+- `index.html` contém o conteúdo e a estrutura da página.
+- `styles.css` reúne os estilos e as regras de responsividade.
+- `script.js` controla os filtros, a galeria e a navegação da página.
+- `assets/hero-photo.png` é a foto de apresentação.
+- `assets/projects/` reúne as imagens da galeria e o vídeo do FocusCube.

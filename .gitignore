@@ -1,0 +1,8 @@
+.vercel
+.env*
+
+# Metadados do sistema e de arquivos ZIP do macOS
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db

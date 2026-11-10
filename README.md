@@ -2,9 +2,9 @@
 
 **Engenheira de software · Android nativo e sistemas embarcados · Recife, PE**
 
-Atuo no CESAR desenvolvendo e mantendo funcionalidades nativas para Android, em colaboração com a equipe de backend. Kotlin e Jetpack Compose estão entre as ferramentas que uso nessa área.
+Sou engenheira de software júnior em Recife, com mais de dois anos de experiência profissional no CESAR, de setembro de 2024 a novembro de 2026. Trabalhei principalmente com desenvolvimento Android nativo em Kotlin e também tive experiência com iOS, macOS e sistemas embarcados.
 
-Comecei em sistemas embarcados, também atuei com iOS e macOS e estudo Ciência da Computação na CESAR School. Este portfólio reúne projetos que vão de protótipos físicos a plataformas web e análise de dados.
+Curso Ciência da Computação na CESAR School, com previsão de conclusão em dezembro de 2026. Busco oportunidades em engenharia de software, especialmente em Android e iOS nativos. Este portfólio reúne projetos que vão de protótipos físicos a plataformas web e análise de dados.
 
 [**Ver portfólio online**](https://lizandra-vieira.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lizandra-vieira/) · [GitHub](https://github.com/lizandravieira)
 
@@ -29,7 +29,7 @@ O FocusCube é um Pomodoro físico desenvolvido em equipe no CESAR School. Ao vi
 
 ## Sobre o site
 
-O portfólio é uma página responsiva em inglês, com filtros por categoria, navegação por seções e uma galeria com carrosséis e vídeo. Foi desenvolvido em **HTML, CSS e JavaScript**.
+O portfólio é uma página responsiva em inglês, com filtros por categoria, navegação por seções e uma galeria com carrosséis e vídeo. O site usa **HTML, CSS e JavaScript puro**.
 
 ## Como abrir no computador
 

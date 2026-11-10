@@ -4,6 +4,12 @@
   const grid = document.querySelector("[data-project-grid]");
   const moreCard = document.querySelector("[data-project-more]");
   const emptyState = document.querySelector("[data-project-empty]");
+  const emptyText = emptyState?.querySelector("p");
+  const defaultEmptyText = emptyText?.textContent;
+  const emptyMessages = {
+    android: "My Android experience is highlighted in the Experience section. Personal projects are currently in development.",
+    ios: "My iOS and macOS experience is highlighted in the Experience section.",
+  };
 
   if (!filters.length || !projects.length || !grid) return;
 
@@ -31,7 +37,11 @@
     }
 
     if (emptyState) {
-      emptyState.classList.toggle("is-hidden", visibleCount > 0);
+      const showEmpty = visibleCount === 0;
+      if (showEmpty && emptyText) {
+        emptyText.textContent = emptyMessages[filter] ?? defaultEmptyText;
+      }
+      emptyState.classList.toggle("is-hidden", !showEmpty);
     }
 
     grid.dataset.visibleCount = String(visibleCount);

@@ -35,7 +35,7 @@ O portfólio é uma página responsiva em inglês, com filtros por categoria, na
 
 Na pasta do projeto, abra `index.html` no Chrome. A página funciona sem instalar dependências ou rodar um build. As fontes vêm do Google Fonts quando há conexão com a internet.
 
-Para obter uma cópia em outro computador, use uma conta com acesso ao repositório privado e execute os comandos abaixo.
+Para obter uma cópia em outro computador, execute os comandos abaixo.
 
 ```bash
 git clone https://github.com/lizandravieira/portfolio.git

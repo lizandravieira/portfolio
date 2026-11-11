@@ -24,7 +24,7 @@ O FocusCube é um Pomodoro físico desenvolvido em equipe no CESAR School. Ao vi
 | --- | --- | --- |
 | [Reconto](https://github.com/alecct812/reconto) | Logística reversa de eletrônicos em Recife, conectando consumidores, empresas e serviços públicos. | Java, Python |
 | [ARCOS](https://github.com/lizandravieira/Arcos) | Plataforma personalizável para ONGs medirem e divulgarem o impacto de seus programas sociais. | HTML, CSS, Python |
-| [HubFolio · Análise de dados](https://github.com/lizandravieira/AnaliseDeDados-HUBFolio) | Painel interativo sobre como estudantes e profissionais de tecnologia constroem e usam seus portfólios. | Python, Streamlit |
+| [HubFolio · Machine Learning](https://github.com/alecct812/Projetos-6---HubFolio) | Pipeline para análise e predição da qualidade de portfólios, com API, processamento de dados e dashboards. | Python, FastAPI, PostgreSQL, Docker, MLflow |
 | [E-stuário](https://github.com/xjuveri/ProjetoE-stuario) | Protótipo de rede social local com feed, eventos e comunidades. | Python |
 
 ## Sobre o site
